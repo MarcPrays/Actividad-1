@@ -8,6 +8,7 @@ namespace Actividad_1
 {
     internal class Empleados
     {
+        // hola
         private string Nombre { get; set; }
         private string Cargo { get; set; }
         private double Sueldo { get; set; }
